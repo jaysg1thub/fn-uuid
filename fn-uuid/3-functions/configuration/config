@@ -1,7 +1,0 @@
-[SANDBOX-USER]
-tenancy=<TENANCY-OCID>
-region=<REGION-CODE>
-user=<USER-OCID>
-fingerprint=<KEY-FINGERPRINT>
-key_file=~/.apikeys/api.sandbox-user.pem
-pass_phrase=<KEY-PASS>
