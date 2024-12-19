@@ -12,3 +12,4 @@ runcmd:
  - [ "wget", "-O", "/home/ubuntu/functions/uuidfn.py", "https://raw.githubusercontent.com/jaysg1thub/fn-uuid/refs/heads/main/2-fn/uuidfn.py" ]
  - [ "wget", "-O", "/home/ubuntu/functions/reportingfn.py", "https://raw.githubusercontent.com/jaysg1thub/fn-uuid/refs/heads/main/2-fn/reportingfn.py" ]
  - [ "wget", "-O", "/home/ubuntu/event.mock.json", "https://raw.githubusercontent.com/jaysg1thub/fn-uuid/refs/heads/main/4-events/events/event.mock.json" ]
+final_message: "DEV machine is running, after $UPTIME seconds"
